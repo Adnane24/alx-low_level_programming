@@ -1,3 +1,4 @@
+#include "lists.h"
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -12,6 +13,7 @@
  * Description: singly linked list node structure
  * for alx project
  */
+
 typedef struct listint_s
 {
 int n;
